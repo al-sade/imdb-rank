@@ -1,1 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html, body {
+  background: #e2ffff;
+}
+
