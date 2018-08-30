@@ -133,6 +133,7 @@
   h1, h2, h3, h4, h5, h6 {
     display: -webkit-inline-box;
     margin: 10px 0 5px;
+    color: #828282;
   }
 
   hr {
